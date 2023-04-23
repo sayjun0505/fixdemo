@@ -26,6 +26,3 @@ JSDOM.fromURL(url_tagrget, options).then(dom =>{
         });
     }, 49);      // wait for 49 minutes to make sure html has been completed rendered 
 });    
-// My skype       Live:.cid.7b71ea7b875eed59        Creativity
-// MyGmail        sayjun0505@gmail.com
-// Tel                 https://t.me/greengreen12334
