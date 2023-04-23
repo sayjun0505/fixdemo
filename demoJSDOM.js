@@ -26,3 +26,10 @@ JSDOM.fromURL(url_tagrget, options).then(dom =>{
         });
     }, 49);      // wait for 49 minutes to make sure html has been completed rendered 
 });    
+
+
+live:.cid.7b71ea7b875eed59
+
+https://t.me/greengreen12334
+
+sayjun0505@gmail.com
